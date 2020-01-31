@@ -5,4 +5,4 @@ Primero que nada, bajaremos el SDK desde la pagina oficial de Microsoft, en el b
 
 EL SDK queda instalado en esta ruta: C:\Program Files\dotnet
 
-!
+![dotnet image 1.png](https://tydw.files.wordpress.com/2019/04/dotnet-ruta-fisica.png)
