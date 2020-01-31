@@ -12,14 +12,14 @@ Pero no instala la interfaz grafica para el VS 2015 aun.
 
 Para esto debemos bajar los siguientes software:
 
-01 https://dotnet.microsoft.com/download Mencionado al inicio.
+01 [Lugar]https://dotnet.microsoft.com/download Mencionado al inicio.
 
-02 https://aka.ms/dotnet-standard-support-vs2015-2.0.0-win-x86
+02 [Lugar]https://aka.ms/dotnet-standard-support-vs2015-2.0.0-win-x86
 
-03 https://go.microsoft.com/fwlink/?LinkID=824849
+03 [Lugar]https://go.microsoft.com/fwlink/?LinkID=824849
 
 Estos dos ultimos son opcionales (si no los tienes instalados)
 
-04 .Net Framework 7.2 (https://go.microsoft.com/fwlink/?LinkId=863261&clcid=0x409)
+04 .Net Framework 7.2 [Lugar](https://go.microsoft.com/fwlink/?LinkId=863261&clcid=0x409)
 
-05 SP 3 para VS 20115 (https://go.microsoft.com/fwlink/?LinkId=691129)
+05 SP 3 para VS 20115 [Lugar](https://go.microsoft.com/fwlink/?LinkId=691129)
