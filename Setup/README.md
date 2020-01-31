@@ -23,3 +23,9 @@ Estos dos ultimos son opcionales (si no los tienes instalados)
 04 .Net Framework 7.2 [Lugar](https://go.microsoft.com/fwlink/?LinkId=863261&clcid=0x409)
 
 05 SP 3 para VS 20115 [Lugar](https://go.microsoft.com/fwlink/?LinkId=691129)
+
+
+1) **Instalacion de Microsoft .NET Core SDK 2.2.202**
+![dotnet image 2.png](https://tydw.files.wordpress.com/2019/04/01.png)
+
+![dotnet image 3.png](https://tydw.files.wordpress.com/2019/04/02.png)
