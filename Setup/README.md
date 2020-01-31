@@ -26,6 +26,18 @@ Estos dos ultimos son opcionales (si no los tienes instalados)
 
 
 1) **Instalacion de Microsoft .NET Core SDK 2.2.202**
-![dotnet image 2.png](https://tydw.files.wordpress.com/2019/04/01.png)
+ ![dotnet image 2.png](https://tydw.files.wordpress.com/2019/04/01.png)
 
-![dotnet image 3.png](https://tydw.files.wordpress.com/2019/04/02.png)
+ ![dotnet image 3.png](https://tydw.files.wordpress.com/2019/04/02.png)
+
+ ![dotnet image 4.png](https://tydw.files.wordpress.com/2019/04/02.png)
+
+
+
+ 2) **Microsft .NET Core 1.0.0 VS 2015 Tooling Preview 2**
+ ![dotnet image 5.png](https://tydw.files.wordpress.com/2019/04/01.png)
+
+ ![dotnet image 6.png](https://tydw.files.wordpress.com/2019/04/02.png)
+
+ ![dotnet image 7.png](https://tydw.files.wordpress.com/2019/04/02.png)
+
