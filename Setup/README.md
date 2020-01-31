@@ -25,7 +25,7 @@ Estos dos ultimos son opcionales (si no los tienes instalados)
 05 SP 3 para VS 20115 [Lugar](https://go.microsoft.com/fwlink/?LinkId=691129)
 
 
-1) **Instalacion de Microsoft .NET Core SDK 2.2.202**
+## 1) **Instalacion de Microsoft .NET Core SDK 2.2.202**
 
  ![dotnet image 2.png](https://tydw.files.wordpress.com/2019/04/01.png)
 
@@ -36,7 +36,7 @@ Estos dos ultimos son opcionales (si no los tienes instalados)
 
 
  2) **Microsft .NET Core 1.0.0 VS 2015 Tooling Preview 2**
- 
+
  ![dotnet image 5.png](https://tydw.files.wordpress.com/2019/04/01.png)
 
  ![dotnet image 6.png](https://tydw.files.wordpress.com/2019/04/02.png)
