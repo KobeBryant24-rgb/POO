@@ -4,3 +4,5 @@ En este mini tutorial, dejare los pasos para instalar el NET CORE 2.2 en Visual 
 Primero que nada, bajaremos el SDK desde la pagina oficial de Microsoft, en el boton “Download .NET Core SDK”.
 
 EL SDK queda instalado en esta ruta: C:\Program Files\dotnet
+
+!
