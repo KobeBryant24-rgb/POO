@@ -38,7 +38,7 @@ Estos dos ultimos son opcionales (si no los tienes instalados)
 
  ## 2) **Microsft .NET Core 1.0.0 VS 2015 Tooling Preview 2**
 
- ![0.png](https://tydw.files.wordpress.com/2019/04/05.png?w=300&h=114)
+ ![0.png](https://tydw.files.wordpress.com/2019/04/05.png?w=300&h=114.png)
 
  ![01.png](https://tydw.files.wordpress.com/2019/04/06.png)
 
