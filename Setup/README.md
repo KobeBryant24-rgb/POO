@@ -31,7 +31,7 @@ Estos dos ultimos son opcionales (si no los tienes instalados)
 
  ![dotnet image 3.png](https://tydw.files.wordpress.com/2019/04/02.png)
  
- ![dotnet image 4.png](https://tydw.files.wordpress.com/2019/04/02.png)
+ ![3.png](https://tydw.files.wordpress.com/2019/04/02.png)
 
  
 
