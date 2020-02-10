@@ -36,11 +36,14 @@ Estos dos ultimos son opcionales (si no los tienes instalados)
  
 
 
- 2) **Microsft .NET Core 1.0.0 VS 2015 Tooling Preview 2**
+ ## 2) **Microsft .NET Core 1.0.0 VS 2015 Tooling Preview 2**
 
- ![dotnet image 5.png](https://tydw.files.wordpress.com/2019/04/01.png)
+ ![0.png](https://tydw.files.wordpress.com/2019/04/05.png?w=300&h=114)
 
- ![dotnet image 6.png](https://tydw.files.wordpress.com/2019/04/02.png)
+ ![01.png](https://tydw.files.wordpress.com/2019/04/06.png)
 
- ![7.png](https://tydw.files.wordpress.com/2019/04/02.png)
+ ![02.png](https://tydw.files.wordpress.com/2019/04/07.png)
+
+ ![03.png](https://tydw.files.wordpress.com/2019/04/08.png)
+
 
