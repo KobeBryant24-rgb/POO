@@ -135,6 +135,13 @@ Una vez que termine tenemos que recargar el IDE. Para eso basta con pulsar en el
 Con esto, ya tenemos nuestro entorno de trabajo Visual Studio Code para trabajar con el lenguaje C# y con .NET Core.
 
 
+## Instalación de git. conectado a tu cuenta de GitHub y VSC.
+Para poder descargar esta pagina para tu escritorio de tu computadora deberas accesar al siguiente link [github] (https://www.uptodown.com/windows)
+
+![b15.png](https://www.uptodown.com/windows)
+
+Una vez aqui deberas seleccionar el sistema operativo con el que cuenta tu pc o laptop
+
 
 
 
