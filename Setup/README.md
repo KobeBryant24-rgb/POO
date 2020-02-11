@@ -46,4 +46,10 @@ Estos dos ultimos son opcionales (si no los tienes instalados)
 
  ![03.png](https://tydw.files.wordpress.com/2019/04/08.png)
 
+Una vez instalado el .NET CORE prosigue descargar Visual Studio Code y a continuacion explicamos como son los pasos para realizarlo
 
+## Pasos para instalar y configurar Visual Studio Code para C#.
+
+Lo primero que debes hacer es instalar Visual Studio Code. Para ello basta con que entremos a su [página de descargas]
+
+(https://code.visualstudio.com/) y nos descarguemos e instalemos la versión apropiada para nuestro sistema operativo.
