@@ -136,12 +136,31 @@ Con esto, ya tenemos nuestro entorno de trabajo Visual Studio Code para trabajar
 
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
-Para poder descargar esta pagina para tu escritorio de tu computadora deberas accesar al siguiente link [github] (https://www.uptodown.com/windows)
+Puedes instalar GitHub Desktop en Microsoft Windows 7 o posterior .
 
-![b15.png](https://www.uptodown.com/windows)
+Para poder descargar esta pagina para tu escritorio de tu computadora deberas accesar al siguiente link [github] (https://desktop.github.com/)
+
 
 Una vez aqui deberas seleccionar el sistema operativo con el que cuenta tu pc o laptop
 
+Advertencia: Debes tener un sistema operativo de 64 bits para ejecutar GitHub Desktop.
+
+Escoge Download for Windows (Descargar para Windows).
+
+Nota Si eres administrador de red, puedes usar el GitHub Desktop paquete instalador de Windows para implementar GitHub Desktop.
+
+En la carpeta Download (Descargas) de tu computadora, haz doble clic en GitHub Desktop.
+
+En la ventana emergente, haz clic en Install (Instalar).
+
+Una vez que el programa hay sido instalado, haz clic en Run (Ejecutar).
+
+Una vez instalado solo resta abrirlo, introducir nombre de cuenta y correo.
+
+Despues deberas cambiar la opcion de "abrir en", cambiarlo por Visual Studio Code que se encontrara en opciones avanzadas, despues en abrir.
+Una vez dentro podras comenzar a crear tu repositorio y cuando desees guardarlo solo deberas seleccionar la opcion guardar o pulsando las teclas ctrl + s y te debes dirigir de nuevo a github desktop, aparecera la opcion de subir commit, lo seleccionas y despues dar la opcion de pull, despues ingresa a github en linea y haz refresh la pagina, veras que tu repositorio se ha actualizado con los cambios que hayas hecho.
+
+Para despues continuar con tu repositorio deberas, ingresar a tu cuenta de github dekstop y una vez alli deberas clonar tu repositorio, despues volver a repetir el procedimiento anterior.
 
 
 
