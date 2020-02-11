@@ -12,11 +12,11 @@ Pero no instala la interfaz grafica para el VS 2015 aun.
 
 Para esto debemos bajar los siguientes software:
 
-01 [Lugar]https://dotnet.microsoft.com/download Mencionado al inicio.
+01 [Lugar](https://dotnet.microsoft.com/download) Mencionado al inicio.
 
-02 [Lugar]https://aka.ms/dotnet-standard-support-vs2015-2.0.0-win-x86
+02 [Lugar](https://aka.ms/dotnet-standard-support-vs2015-2.0.0-win-x86)
 
-03 [Lugar]https://go.microsoft.com/fwlink/?LinkID=824849
+03 [Lugar](https://go.microsoft.com/fwlink/?LinkID=824849)
 
 Estos dos ultimos son opcionales (si no los tienes instalados)
 
@@ -50,9 +50,7 @@ Una vez instalado el .NET CORE prosigue descargar Visual Studio Code y a continu
 
 ## Pasos para instalar y configurar Visual Studio Code para C#.
 
-Lo primero que debes hacer es instalar Visual Studio Code. Para ello basta con que entremos a su página de descargas
-
-(https://code.visualstudio.com/) y nos descarguemos e instalemos la versión apropiada para nuestro sistema operativo.
+Lo primero que debes hacer es instalar Visual Studio Code. Para ello basta con que entremos a su [página de descargas] (https://code.visualstudio.com/) y nos descarguemos e instalemos la versión apropiada para nuestro sistema operativo.
 
 ![b1.png](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/DescargarVSC.png)
 
