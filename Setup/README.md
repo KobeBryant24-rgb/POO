@@ -55,3 +55,65 @@ Lo primero que debes hacer es instalar Visual Studio Code. Para ello basta con q
 (https://code.visualstudio.com/) y nos descarguemos e instalemos la versión apropiada para nuestro sistema operativo.
 
 ![b1.png](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/DescargarVSC.png)
+
+Desde la página de descargas se pueden descargar las versiones para diferentes sistemas operativos (32 / 64 bits, Windows / GNU/Linux /
+
+Mac). En Windows hay además disponibles versiones System installer, que se instalan en la carpeta de Archivos de programa, y versiones 
+
+User installer, que se instalan en la carpeta de usuario. Desde el verano de 2018, Microsoft recomienda la versión User installer.
+
+Enlaces de descarga para Windows: [Visual Studio Code (64 bits, recomendado)](https://code.visualstudio.com/docs/?dv=win64user) -
+
+[Visual Studio Code (32 bits)](https://code.visualstudio.com/docs/?dv=win32user)
+
+![b3.png](https://www.mclibre.org/consultar/informatica/img/vscode/vsc-descargar-2.png)
+
+## Instalar Visual Studio Code en Windows
+Nota: Las capturas siguientes corresponden a Visual Studio Code 1.27 (User installer) en Windows 10 de 64 bits. Versiones posteriores 
+
+pueden ser ligeramente diferentes.
+
+## 1.-Haga doble clic sobre el instalador de Visual Studio Code para poner en marcha el asistente de instalación.
+
+## 2.-La primera pantalla exige aceptar la licencia de Visual Studio Code para continuar la instalación:
+
+![b4.png](https://www.mclibre.org/consultar/informatica/img/vscode/vsc-instalacion-1.png)
+
+## 3.-La segunda pantalla permite elegir el directorio de instalación (por tratarse de la versión User installer, el directorio de 
+
+## instalación está en la carpeta de usuario, no en Archivos de programa):
+
+![b5.png](https://www.mclibre.org/consultar/informatica/img/vscode/vsc-instalacion-2.png)
+
+## 4.-La tercera pantalla permite elegir el nombre de la carpeta del menú de inicio:
+
+![b6.png](https://www.mclibre.org/consultar/informatica/img/vscode/vsc-instalacion-3.png)
+
+## 5.-La cuarta pantalla permite elegir algunas tareas adicionales tras la instalación. Personalmente, aconsejo marcar las casillas
+
+## "Agregar la acción ...":
+
+![b7.png](https://www.mclibre.org/consultar/informatica/img/vscode/vsc-instalacion-3.png)
+
+## 6.-Finalmente se muestran las opciones elegidas en las pantallas anteriores. Para iniciar la instalación, haga clic en Instalar.
+
+![b8png](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/DescargarVSC.png)
+
+
+## 7.-A continuación, se instalará Visual Studio Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
