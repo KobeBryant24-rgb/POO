@@ -3,5 +3,5 @@
 [Actividad 1](./Setup/README.md)
 
 
-[Actividad 2](./Setup/Program.cs)
+[Actividad 2](./Peliculas/Program.cs)
 
