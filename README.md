@@ -5,3 +5,6 @@
 
 [Actividad 2](./Peliculas/Program.cs)
 
+[Actividad 3](./Lista_Peliculas/Program.cs)
+
+
