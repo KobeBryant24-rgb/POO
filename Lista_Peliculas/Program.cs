@@ -26,9 +26,8 @@ namespace Lista_Peliculas
            Lista_Peliculas.Add(new Lista_Peliculas("Col of dury"));
            Lista_Peliculas.Add(new Lista_Peliculas("Fornais"));
            Lista_Peliculas.Add(new Lista_Peliculas("Girs of guars"));
-           for(int i = 0; i<Lista_Peliculas.Count; i++){
-               Lista_Peliculas[i].imprime();
-           }
+           foreach(Lista_Peliculas a in Lista_Peliculas)
+           a.imprime();
         }
     }
 }
