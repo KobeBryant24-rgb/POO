@@ -4,19 +4,19 @@ namespace Peliculas
 {
     class pelicula
     {
-        private string title;
-        private Int16 year;
-        private string country;
-        private string main;
+        private string titulo;
+        private Int16 año;
+        private string pais;
+        private string director;
 
-        public pelicula(string title, Int16 year)
+        public pelicula(string titulo, Int16 año)
         {
-            this.title=title;
-            this.year=year;
+            this.titulo=titulo;
+            this.año=año;
         }
-        public void print()
+        public void imprime()
         {
-            Console.WriteLine("{0} {1}  ",title,year);
+            Console.WriteLine("{0} {1}",titulo,año);
         }
 
     }
@@ -25,21 +25,11 @@ namespace Peliculas
         static void Main(string[] args)
         {
             pelicula p1 = new pelicula("Gravity",2013);
-            p1.print();
+            p1.imprime();
 
             pelicula p2 = new pelicula("Joker",2019);
-            p2.print();
-            
-            pelicula p3 = new pelicula("Toy Story 4",2019);
-            p3.print();
+            p2.imprime();
 
-            pelicula p4 = new pelicula("Bohemian Rapsody",2018);
-            p4.print();
-            
-            pelicula p5 = new pelicula("Roma",2018);
-            p5.print();
-            
-            
                 
         }
             
