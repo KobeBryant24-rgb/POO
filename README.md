@@ -7,4 +7,4 @@
 
 [Actividad 3](./Lista_Peliculas/Program.cs)
 
-[Actividad 4](./Lista_actores/Program.cs)
+[Actividad 4](./Lista_actor/Program.cs)
